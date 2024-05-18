@@ -1,0 +1,11 @@
+ os
+ io
+ asyncio
+ nest_asyncio
+ PyPDF2
+ langchain
+ langchain_google_genai
+ dotenv
+ google
+ ipywidgets
+ IPython
